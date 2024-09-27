@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
         ContentRendered="Window_ContentRendered"
-        Title="Launcher" Height="576" Width="1080">
+        Title="Koi Koi Launcer" Height="576" Width="1080">
     <Grid>
         <Image Stretch="UniformToFill" Source="images/LauncherBackground.png"/>
         <TextBlock Name="VersionText" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="20" Foreground="White" Margin="0, 0, 5, 0"/>
